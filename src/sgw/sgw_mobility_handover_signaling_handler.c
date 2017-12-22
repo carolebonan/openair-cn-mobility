@@ -19,12 +19,14 @@
  *      contact@openairinterface.org
  */
 
-/*! \file sgw_handlers.c
-  \brief
-  \author Lionel Gauthier
-  \company Eurecom
-  \email: lionel.gauthier@eurecom.fr
-*/
+/*! \file sgw_mobility_handover_signaling_handler.c
+ *  \author Carole Bonan
+ *  \company IRT b<>com
+ *  \date 2017
+ *  \version 1.0
+ */
+
+
 #define SGW
 #define SGW_MOBILITY_HANDOVER_SIGNALLING_HANDLERS_C
 
